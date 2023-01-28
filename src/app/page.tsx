@@ -8,7 +8,7 @@ const inter:NextFont = Inter({ subsets: ['latin'] })
 export default function Home():JSX.Element {
   return (
     <main className={styles.main}>
-     <div className="">Hi</div>
+     <div className="bg-pink-400">Hi</div>
     </main>
   )
 }
